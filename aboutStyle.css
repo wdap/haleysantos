@@ -10,14 +10,14 @@ h1{
 	font:  'Open+Sans', normal;
 	margin-left: 280px;
 	margin-top:  40px;
-	color:white
+	color:black;
 }
 
 #write{
 	font: 20px 'Open+Sans', normal;
 	margin-left: 200px;
 	display:block;
-	color:white
+	color:black;
 }
 #btn{
 	margin-top: 100px;
@@ -36,19 +36,19 @@ h1{
 	display:block;
 	margin-left: 280px;
 	margin-top: 40px;
-	color: white;
+	color: black;
 }
 
 #second{
 	display:block;
 	margin-left: 280px;
 	margin-top: 10px;
-	color: white;
+	color: black;
 }
 
 img{
 	display:block;
-	margin-top: -400px;
+	margin-top: -420px;
 	margin-left: 810px;
 	height:650px;
 	width:500px;
